@@ -1,0 +1,7 @@
+{
+  "name": "UsernameReplacer",
+  "version": "1.0.0",
+  "description": "Replace specific usernames with custom names (for other users only).",
+  "authors": [{ "name": "yourname" }],
+  "main": "plugin.js"
+}
